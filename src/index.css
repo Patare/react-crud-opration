@@ -1,0 +1,44 @@
+.nav-item {
+  font-size: 20px;
+  font-weight: bold;
+  /* font-style: italic; */
+}
+.nav-link{
+  list-style-type: none;
+  color: red;
+}
+.table{
+  font-weight: bold;
+  font-style: italic;
+}
+/* .map:hover{
+  background-color: aqua;
+  color: black;
+} */
+.nav-item:hover{
+  color: aqua;
+}
+.background{
+  width: 100%;
+  height: 300px;
+  background-image: conic-gradient(red, yellow, green, blue, black);
+}
+.backgroundimg{
+  background-repeat: no-repeat;
+background-image: url('https://st.depositphotos.com/1071909/2187/i/450/depositphotos_21874019-stock-photo-human-resources-and-crm.jpg');
+width: 100%;
+height: 500px;
+}
+/* input{
+margin-left: 200px;
+}
+label{
+  margin-left: 200px;
+}
+button{
+  margin-left: 250px;
+}
+button:hover{
+  background-color: aqua;
+  color: black;
+} */
